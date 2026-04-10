@@ -1,5 +1,5 @@
 # Die "Teamgeist"-App
-Teamgeist ist eine Web-App für Team- und Aktivitätenmanagement von Sportmannschaften, gebaut von einer Gruppe Studenten der FH Campus Wien.
+Teamgeist ist eine Web-App für Team- und Aktivitätenmanagement von Sportmannschaften.
 
 ## Benötigte Node.js Commands (im IDE Terminal ausführen):
 ### 1. One-time Commands
